@@ -1,0 +1,1494 @@
+[
+    {
+      "faculty_or_college": "FACULTY OF AGRICULTURE",
+      "program_name": "B.Sc.(Hons.) Agriculture",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) / Three years Diploma of Agricultural Sciences (DAS) securing 45% marks i.e. 495/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Agronomy, Horticulture and Entomology (For DAS)"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF AGRICULTURE",
+      "program_name": "BS Forestry",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) or Three years Diploma of Agricultural Sciences (DAS) / Diploma of Associate Engineering (DAE) securing 45% marks i.e. 495/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Agronomy, Horticulture and Entomology (For DAS)"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF AGRICULTURE",
+      "program_name": "B.Sc.(Hons.) Environmental Science",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) securing 60% marks i.e. 660/1100 or Intermediate (Pre-Agriculture) with CGPA 2.50",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF VETERINARY SCIENCE",
+      "program_name": "Doctor of Veterinary Medicine (DVM)",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 60% marks i.e. 660/1100",
+      "additional_requirements": "Securing Minimum 50% marks is compulsory in Entry test",
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF VETERINARY SCIENCE",
+      "program_name": "B.Sc. (Hons.) Microbiology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) or equivalent securing 50% marks i.e. 550/1100",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF VETERINARY SCIENCE",
+      "program_name": "Doctor of Pharmacy (Pharm.D.)",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 60% marks i.e. 660/1100",
+      "additional_requirements": "Securing Minimum 50% marks is compulsory in Entry test",
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF SCIENCES",
+      "program_name": "BS Software Engineering",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SCIENCES",
+      "program_name": "BS Computer Science",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SCIENCES",
+      "program_name": "BS Information Technology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SCIENCES",
+      "program_name": "BS Bioinformatics",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SCIENCES",
+      "program_name": "BS Data Science",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SCIENCES",
+      "program_name": "BS Artificial Intelligence",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF ANIMAL HUSBANDRY",
+      "program_name": "BS Animal Sciences",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 50% marks i.e. 550/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF ANIMAL HUSBANDRY",
+      "program_name": "BS Dairy Science",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 50% marks i.e. 550/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF AGRI. ENGINEERING & TECHNOLOGY",
+      "program_name": "B.Sc. Agri. Engineering",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Engineering) / Intermediate with combination of Physics, Mathematics & Computer Studies / ICS/Three years Diploma of Associate Engineer (DAE) in Civil, Mechanical, Auto & Farm Machinery, Auto & Diesel, Mechanical/Machinery securing 60% marks i.e. 660/1100",
+      "additional_requirements": "Securing Minimum 33% marks is compulsory in Entry test",
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF AGRI. ENGINEERING & TECHNOLOGY",
+      "program_name": "B.Sc. Food Engineering",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Engineering) / Intermediate with combination of Physics, Mathematics & Computer Studies / ICS/Three years Diploma of Associate Engineer (DAE) in Chemical, Food & Mechanical, Food Processing and preservation Technologies securing 60% marks i.e. 660/1100",
+      "additional_requirements": "Securing Minimum 33% marks is compulsory in Entry test",
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF AGRI. ENGINEERING & TECHNOLOGY",
+      "program_name": "B.Sc. Energy Systems Engineering",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Engineering) / Intermediate with combination of Physics, Mathematics & Computer Studies / ICS/Three years Diploma of Associate Engineer (DAE) in Electrical, Electronics, Mechanical (Power), Telecommunication & Chemical Technologies securing 60% marks i.e. 660/1100",
+      "additional_requirements": "Securing Minimum 33% marks is compulsory in Entry test",
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF AGRI. ENGINEERING & TECHNOLOGY",
+      "program_name": "B.Sc. Environmental Engineering",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Engineering) / Intermediate with combination of Physics, Mathematics & Computer Studies / ICS/Three years Diploma of Associate Engineer (DAE) in Electrical, Civil, Chemical, Petroleum, Petrochemical and Mechanical Technologies securing 60% marks i.e. 660/1100",
+      "additional_requirements": "Securing Minimum 33% marks is compulsory in Entry test",
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF AGRI. ENGINEERING & TECHNOLOGY",
+      "program_name": "B.Sc. Textile Engineering Technology",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Engineering)/Three years Diploma of Associate Engineer (DAE) in Chemical, Textile & Mechanical Technologies securing 60% marks i.e. 660/1100",
+      "additional_requirements": "Securing Minimum 33% marks is compulsory in Entry test",
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF SOCIAL SCIENCES",
+      "program_name": "B.Sc.(Hons.) Agri. & Resource Economics",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) securing 50% marks i.e. 550/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SOCIAL SCIENCES",
+      "program_name": "B.Ed. (Hons.)",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "At least 2nd division or 45% marks in Intermediate (F.A./F.Sc.) / Intermediate (Pre-Agriculture) with CGPA 2.20 or equivalent (proof of equivalence from the IBCC)",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SOCIAL SCIENCES",
+      "program_name": "BS Economics",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "Intermediate or equivalent (Pre-Medical / Pre-Engineering / General Science Group (with at least one subject as Economics / Statistics / Mathematics) I.Com / D.Com/ICS / A levels with minimum of 45% marks i.e. 495/1100",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF SOCIAL SCIENCES",
+      "program_name": "BS Sociology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "At least 45% marks in FA/FSc./I.Com/ICS/A Level",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF SOCIAL SCIENCES",
+      "program_name": "Bachelor of Business Administration (BBA)",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate (12 years schooling) securing 50% marks or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF SOCIAL SCIENCES",
+      "program_name": "BBA(Agribusiness)",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate or an equivalent examination (12 years schooling) securing at least 50% marks i.e. 550/1100 or Intermediate (Pre-Agriculture) securing CGPA 2.20/4.00",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF SOCIAL SCIENCES",
+      "program_name": "BS Commerce",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate (12 years of schooling) in any discipline having not less than 45% marks i.e. 495/1100 or Intermediate (Pre-Agriculture) having CGPA 2.20/4.00",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF FOOD, NUTRITION & HOME SCIENCES",
+      "program_name": "B.Sc. (Hons.) Food Science & Technology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) / Three years Diploma of Associate Engineer (DAE) in Food Technology / Food Processing & Preservation securing 60% marks i.e. 660/1100 or Intermediate (Pre-Agriculture) with CGPA 2.50",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF FOOD, NUTRITION & HOME SCIENCES",
+      "program_name": "B.Sc. (Hons.) Human Nutrition & Dietetics",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 60% marks i.e. 660/1100 or Intermediate (Pre-Agriculture) with CGPA 2.50",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF FOOD, NUTRITION & HOME SCIENCES",
+      "program_name": "B.Sc. (Hons.) Home Economics",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical / Pre-Engineering) securing 45% marks i.e. 495/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "FACULTY OF ARTS AND HUMANITIES",
+      "program_name": "Bachelor of Fine Arts (BFA)",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Certificate, F.A, I.Com, ICS, F.Sc.(Pre-Medical or Pre-Engineering), A levels or equivalent degree having 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "FACULTY OF ARTS AND HUMANITIES",
+      "program_name": "BS English (Language and Literature)",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce",
+        "English"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Botany",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Biochemistry",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Chemistry",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Computer Science",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS English (Language and Literature)",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce",
+        "English"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Mathematics",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry & Mathematics",
+        "English, Physics, Mathematics & Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics & Economics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Physics",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Mathematics and Chemistry",
+        "English, Physics, Mathematics and Computer Science"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Sociology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "At least 45% marks in FA/FSc./I.Com/ICS/A Level",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Software Engineering",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Statistics",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry & Mathematics",
+        "English, Physics, Mathematics & Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics & Economics",
+        "English, Account, Banking & Business Mathematics",
+        "English, Account, Economics & Business Mathematics",
+        "English, Computer Science, Economics & Statistics",
+        "English, Physics, Statistics and Economics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "BS Zoology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF COMMUNITY COLLEGE, PARS",
+      "program_name": "B.Ed.",
+      "program_schedule": null,
+      "eligibility_criteria": "MA/M.Sc./B.Sc.(Hons.)/BS(16 years schooling) from HEC recognized University/Institution and any degree program of this University(16 years schooling) securing at least 45% marks under annual system or CGPA of 2.50/4.00 under semester system.",
+      "additional_requirements": null,
+      "entry_test_streams": [],
+      "notes": "a) The students enrolled in any degree program (16 years schooling) at this University are also eligible to apply in this program through credit earning system. The morning students pursuing their higher degrees in the vicinity of Faisalabad who fulfill the minimum requirements for admission to this degree will also be eligible to apply and continue (if admitted on merit) the evening/weekend program of studies i.e. B.Ed. b) Merit for admission in this degree program shall be determined on the basis of percentage of marks."
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "B.Sc. (Hons.) Poultry Science",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/ Pre-Engineering) securing 50% marks i.e. 550/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Animal Sciences",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 50% marks i.e. 550/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Computer Science",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Chemistry",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Zoology",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "Bachelor of Business Administration (BBA)",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate (12 years schooling) securing 50% marks or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS English (Language and Literature)",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce",
+        "English"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "B.Sc. (Hons.) Human Nutrition & Dietetics",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 60% marks i.e. 660/1100 or Intermediate (Pre-Agriculture) with CGPA 2.50",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Information Technology",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Biochemistry",
+      "program_schedule": "Morning and Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Botany",
+      "program_schedule": "Morning and Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Physics",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "BS Mathematics",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry & Mathematics",
+        "English, Physics, Mathematics & Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics & Economics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, TOBA TEK SINGH",
+      "program_name": "B.ED",
+      "program_schedule": null,
+      "eligibility_criteria": "MA/M.Sc./B.Sc. (Hons.)/BS(16 years schooling) from HEC recognized University/Institution and any degree program of this University(16 years schooling) securing at least 45% marks under annual system or CGPA of 2.50/4.00 under semester system.",
+      "additional_requirements": null,
+      "entry_test_streams": [],
+      "notes": "a) The students enrolled in any degree program (16 years schooling) at this University are also eligible to apply in this program through credit earning system. The morning students pursuing their higher degrees in the vicinity of Faisalabad who fulfill the minimum requirements for admission to this degree will also be eligible to apply and continue (if admitted on merit) the evening/weekend program of studies i.e. B.Ed. b) Merit for admission in this degree program shall be determined on the basis of percentage of marks."
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "B.Sc. (Hons.) Agriculture",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) / Three years Diploma of Agricultural Sciences (DAS) securing 45% marks i.e. 495/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Agronomy, Horticulture and Entomology (For DAS)"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS Computer Science",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BBA(Agribusiness)",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate or an equivalent examination (12 years schooling) securing at least 45% marks i.e. 495/1100 or Intermediate (Pre-Agriculture) securing CGPA 2.20/4.00",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "B.Sc. (Hons.) Food Science & Technology",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) / Three years Diploma of Associate Engineer (DAE) in Food Technology / Food Processing & Preservation securing 60% marks i.e. 660/1100 or Intermediate (Pre-Agriculture) with CGPA 2.50",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "Bachelor of Business Administration (BBA)",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "Intermediate (12 years schooling) securing 45% marks or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS Chemistry",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS Botany",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS Zoology",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS Mathematics",
+      "program_schedule": "Morning and Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics & Economics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS Information Technology",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS English (Language and Literature)",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce",
+        "English"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "BS Sociology",
+      "program_schedule": "Morning and Evening Program",
+      "eligibility_criteria": "At least 45% marks in F.A./F.Sc./I.Com./ICS/A Levels",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "B.Sc. (Hons.) Human Nutrition & Dietetics",
+      "program_schedule": "Evening Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical) securing 60% marks i.e. 660/1100 or Intermediate (Pre-Agriculture) with CGPA 2.50",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, BUREWALA - VEHARI",
+      "program_name": "B.ED",
+      "program_schedule": null,
+      "eligibility_criteria": "MA/M.Sc./B.Sc. (Hons.)/BS(16 years schooling) from HEC recognized University/Institution and any degree program of this University(16 years schooling) securing at least 45% marks under annual system or CGPA of 2.50/4.00 under semester system.",
+      "additional_requirements": null,
+      "entry_test_streams": [],
+      "notes": "a) The students enrolled in any degree program (16 years schooling) at this University are also eligible to apply in this program through credit earning system. The morning students pursuing their higher degrees in the vicinity of Faisalabad who fulfill the minimum requirements for admission to this degree will also be eligible to apply and continue (if admitted on merit) the evening/weekend program of studies i.e. B.Ed. b) Merit for admission in this degree program shall be determined on the basis of percentage of marks."
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "B.Sc. (Hons.) Agriculture",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) / Three years Diploma of Agricultural Sciences (DAS) securing 45% marks i.e. 495/1100 or Intermediate (Pre-Agriculture) with CGPA 2.20",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Agronomy, Horticulture and Entomology (For DAS)"
+      ],
+      "notes": "No Entry Test required for UAF Students"
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BS Zoology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BS Chemistry",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BS Physics",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BS Computer Science",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BS Mathematics",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "F.Sc. or equivalent examination securing 45% marks",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BS Sociology",
+      "program_schedule": "Morning & Evening Program",
+      "eligibility_criteria": "At least 45% marks in F.A./F.Sc./I.Com./ICS/A Levels",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BS Information Technology",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Minimum 50% marks in Intermediate / 12 years schooling / A-Level (HSSC). The students who have not studied Mathematics at Intermediate level have to pass deficiency courses of Mathematics (06 credits) in first two semesters.",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "B.Sc. (Hons.) Food Science & Technology",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate Science (Pre-Medical/Pre-Engineering) / Three years Diploma of Associate Engineer (DAE) in Food Technology / Food Processing & Preservation securing 60% marks i.e. 660/1100 or Intermediate (Pre-Agriculture) with CGPA 2.50",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "BBA(Agribusiness)",
+      "program_schedule": "Morning Program",
+      "eligibility_criteria": "Intermediate or an equivalent examination (12 years schooling) securing at least 50% marks i.e. 550/1100 or Intermediate (Pre-Agriculture) securing CGPA 2.20/4.00",
+      "additional_requirements": null,
+      "entry_test_streams": [
+        "English, Physics, Chemistry and Biology",
+        "English, Physics, Chemistry and Mathematics",
+        "English, Physics, Mathematics and Computer Science",
+        "English, Mathematics, Computer Science and Statistics",
+        "English, Mathematics, Computer Science and Economics",
+        "English, Mathematics, Statistics and Economics",
+        "English, Account, Banking and Business Mathematics",
+        "English, Account, Economics and Business Mathematics",
+        "English, Computer Science, Economics and Statistics",
+        "English, Physics, Statistics and Economics",
+        "English, Islamic Studies, Sociology and General Science",
+        "English, Political Science, Sociology, and Economics",
+        "English, Sociology, Psychology and Economics",
+        "English, Geography, Psychology and Education",
+        "English, History, General Science and Education",
+        "English, Sociology, History, and Political Science",
+        "English, Account, Business Mathematics and Principles of Commerce & Banking",
+        "English, Account, Business Mathematics and Economics & Principles of Commerce"
+      ],
+      "notes": null
+    },
+    {
+      "faculty_or_college": "UAF CONSTITUENT COLLEGE, DEPALPUR",
+      "program_name": "B.ED",
+      "program_schedule": null,
+      "eligibility_criteria": "MA/M.Sc./B.Sc.(Hons.)/BS(16 years schooling) from HEC recognized University/Institution and any degree program of this University(16 years schooling) securing at least 45% marks under annual system or CGPA of 2.50/4.00 under semester system.",
+      "additional_requirements": null,
+      "entry_test_streams": [],
+      "notes": "a) The students enrolled in any degree program (16 years schooling) at this University are also eligible to apply in this program through credit earning system. The morning students pursuing their higher degrees in the vicinity of Faisalabad who fulfill the minimum requirements for admission to this degree will also be eligible to apply and continue (if admitted on merit) the evening/weekend program of studies i.e. B.Ed. b) Merit for admission in this degree program shall be determined on the basis of percentage of marks."
+    }
+  ]
