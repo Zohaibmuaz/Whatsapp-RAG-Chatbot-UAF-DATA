@@ -7,6 +7,7 @@ import google.generativeai as genai
 from twilio.twiml.messaging_response import MessagingResponse
 from dotenv import load_dotenv
 import logging
+import re
 
 # Load environment variables
 load_dotenv()
@@ -50,45 +51,69 @@ def load_university_data():
 
 def search_programs(user_message: str) -> List[Dict[str, Any]]:
     """
-    Search for relevant programs based on user message.
-    Implements simple keyword-based search.
+    A more robust search for relevant programs based on user message.
+    It now tokenizes the user query and ranks programs by the number of keyword matches.
     """
-    user_message_lower = user_message.lower()
-    relevant_programs = []
+    logger.info(f"Starting search for query: '{user_message}'")
+    
+    # Normalize and split the user's message into keywords
+    user_keywords = set(re.split(r'\s+', user_message.lower()))
 
+    scored_programs = []
     for program in university_programs:
-        program_name = program.get('program_name', '').lower()
-        faculty = program.get('faculty_or_college', '').lower()
+        score = 0
+        # Create a single searchable text field for each program
+        searchable_text = ' '.join([
+            program.get('program_name', '').lower(),
+            program.get('faculty_or_college', '').lower(),
+            program.get('program_schedule', '').lower()
+        ])
 
-        if any(keyword in user_message_lower for keyword in program_name.split()):
-            relevant_programs.append(program)
-        elif any(keyword in user_message_lower for keyword in faculty.split()):
-            relevant_programs.append(program)
+        # Score based on keyword matches
+        for keyword in user_keywords:
+            if keyword in searchable_text:
+                score += 1
+        
+        if score > 0:
+            scored_programs.append({'score': score, 'program': program})
 
+    # Sort programs by score in descending order
+    sorted_programs = sorted(scored_programs, key=lambda x: x['score'], reverse=True)
+    
+    # Extract just the program data from the sorted list
+    relevant_programs = [item['program'] for item in sorted_programs]
+
+    logger.info(f"Found {len(relevant_programs)} relevant programs based on score.")
+
+    # If no matches are found, return a small default list to provide some context
     if not relevant_programs and university_programs:
-        relevant_programs = university_programs[:3]
+        logger.warning("No relevant programs found, returning default programs for context.")
+        return university_programs[:3]
 
     return relevant_programs
 
+
 def format_program_context(programs: List[Dict[str, Any]]) -> str:
     """Format program information into readable context string"""
-    if not programs:
-        return "No specific program information available."
+    # Limit the context to the top 5 most relevant programs to avoid overloading the prompt
+    programs_to_format = programs[:5]
 
-    context_parts = []
-    for i, program in enumerate(programs[:5]): # Limit context to 5 programs
-        context_parts.append(f"Program {i+1}:")
-        context_parts.append(f"  Name: {program.get('program_name', 'N/A')}")
-        context_parts.append(f"  Faculty: {program.get('faculty_or_college', 'N/A')}")
-        context_parts.append(f"  Schedule: {program.get('program_schedule', 'N/A')}")
-        context_parts.append(f"  Eligibility: {program.get('eligibility_criteria', 'N/A')}")
-        context_parts.append("") # Empty line
+    if not programs_to_format:
+        return "No specific program information available. The user might be asking a general question."
+
+    context_parts = ["Here is the most relevant information found:"]
+    for i, program in enumerate(programs_to_format):
+        context_parts.append(f"\n--- Program {i+1} ---")
+        context_parts.append(f"Name: {program.get('program_name', 'N/A')}")
+        context_parts.append(f"Faculty: {program.get('faculty_or_college', 'N/A')}")
+        context_parts.append(f"Schedule: {program.get('program_schedule', 'N/A')}")
+        context_parts.append(f"Eligibility: {program.get('eligibility_criteria', 'N/A')}")
     return "\n".join(context_parts)
 
 def generate_response_with_gemini(user_question: str, context: str) -> str:
     """Generate response using Gemini API with RAG approach"""
     try:
-        system_prompt = """You are a friendly and helpful university admissions assistant for the University of Agriculture, Faisalabad. Your task is to answer the user's question based ONLY on the context provided. Do not add any information that is not in the context. If the information is not available, clearly state that. Be conversational and welcoming for WhatsApp."""
+        system_prompt = """You are a friendly and helpful university admissions assistant for the University of Agriculture, Faisalabad. Your task is to answer the user's question based ONLY on the context provided. Do not add any information that is not in the context. If the information is not available in the context, clearly state that you could not find specific details in the provided data. Be conversational and welcoming for WhatsApp."""
 
         full_prompt = f"{system_prompt}\n\nContext:\n{context}\n\nUser Question: {user_question}\n\nResponse:"
 
@@ -120,16 +145,14 @@ async def whatsapp_webhook(Body: str = Form(...), From: str = Form(...)):
     twiml_response = MessagingResponse()
 
     try:
-        # Step A: Retrieval
+        # Step A: Retrieval (with improved logic)
         relevant_programs = search_programs(Body)
-        logger.info(f"Found {len(relevant_programs)} relevant programs")
-
+        
         # Step B: Augmentation
         context = format_program_context(relevant_programs)
         
         # Step C: Generation
         generated_response = generate_response_with_gemini(Body, context)
-        logger.info("Generated response with Gemini")
         response_message_text = generated_response
 
     except Exception as e:
