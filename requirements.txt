@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
 google-generativeai
-python-twilio
+twilio
 python-dotenv
 gunicorn
